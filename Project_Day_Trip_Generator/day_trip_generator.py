@@ -27,5 +27,6 @@ def day_trip_generator():
     #if the user inputs something other than yes or no, end the program
     else:
         print("Invalid input. Please try again.")
-day_trip_generator()
+day_trip_generator()    
+
   #end of program
