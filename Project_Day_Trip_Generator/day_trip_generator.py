@@ -1,6 +1,7 @@
 #day tip generator
 import random
 def day_trip_generator():
+
     #list of destinations
     destinations = ["Paris, France", "Shanghai, China", "Los Angeles, USA", "São Paulo, Brazil", "Cairo, Egypt"]
     #list of restaurants
@@ -19,6 +20,9 @@ def day_trip_generator():
     #ask the user if they are satisfied with the trip
     satisfied = input("Are you satisfied with your trip? (yes/no)")
     #if the user is satisfied, end the program
+
+
+
     if satisfied == "yes":
         print("Enjoy your trip!")
     #if the user is not satisfied, run the program again
@@ -27,6 +31,48 @@ def day_trip_generator():
     #if the user inputs something other than yes or no, end the program
     else:
         print("Invalid input. Please try again.")
-day_trip_generator()    
 
-  #end of program
+day_trip_generator()
+#   #end of program
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# def day_trip_generator():
+#     destination = random.choice(destination)
+#     restaurant = random.choice(restaurant)
+#     transportation = random.choice(transportation)
+#     entertainment = random.choice(entertainment)
+#     day_trip = [destination, restaurant, transportation, entertainment]
+#     return  day_trip
+
+# def random_trip():
+#     day_trip_generator = []
+#     print("Your trip will be to " + day_trip_generator[0] + " and you will eat at " + day_trip_generator[1] + " and you will travel by " + day_trip_generator[2] + " and you will visit a " + day_trip_generator[3] + "!")
+#      satisfied = input("Are you satisfied with your trip? (yes/no)")
+#     if satisfied == "yes":
+#         print("Enjoy your trip!")
+#     elif satisfied == "no":
+#         day_trip_generator()
+#     else:
+#         print("Invalid input. Please try again.")
+# day_trip_generator()
+
+# random_trip()
+# day_trip_generator(["Paris, France", "Shanghai, China", "Los Angeles, USA", "São Paulo, Brazil", "Cairo, Egypt"])
+# print(day_trip_generator(["Paris, France", "Shanghai, China", "Los Angeles, USA", "São Paulo, Brazil", "Cairo, Egypt"]))
+
+

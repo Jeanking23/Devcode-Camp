@@ -1,0 +1,4 @@
+# SQL-In-Action-Project
+this project will be the SQL script with completed queries
+
+Based on the data in this dataset, several factors appear to be important for a successful Airbnb rental. These include location, price, and the number of reviews. Listings in popular neighborhoods like Williamsburg tend to have more reviews, which suggests that location is a key factor in attracting guests. Additionally, hosts who charge lower prices may attract more guests, as evidenced by the high number of bookings for listings with lower prices. Finally, having a high number of positive reviews is crucial, as it indicates that past guests have enjoyed their stay and are likely to recommend the listing to others. In summary, location, price, and positive reviews appear to be the most important factors in determining the success of an Airbnb rental.
