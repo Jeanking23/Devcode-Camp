@@ -98,16 +98,25 @@
 
 /* Number Twelve */
 
-.container-12 {}
+.container-12 {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
 
 .nerf-12 {
     background-color: blue;
+    align-self: self-end;
 }
 
 
 /* Number Thirteen */
 
-.container-13 {}
+.container-13 {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
 
 .nerf-13 {
     background-color: blue;
@@ -116,8 +125,15 @@
 
 /* Number Fourteen */
 
-.container-14 {}
+.container-14 {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: row-reverse;
+}
 
 .nerf-14 {
     background-color: blue;
+    align-self: self-start;
+    flex-direction: row-reverse;
 }
