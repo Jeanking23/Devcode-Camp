@@ -1,0 +1,123 @@
+/* Number One */
+
+.container-1 {
+    display: flex;
+    align-items: flex-start;
+}
+
+
+/* Number Two */
+
+.container-2 {
+    display: flex;
+    align-items: end;
+}
+
+
+/* Number Three */
+
+.container-3 {
+    display: flex;
+    align-items: center;
+}
+
+
+/* Number Four */
+
+.container-4 {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
+
+
+/* Number Five */
+
+.container-5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/* Number Six */
+
+.container-6 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+}
+
+
+/* Number Seven */
+
+.container-7 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4rem;
+}
+
+
+/* Number Eight */
+
+.container-8 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5rem;
+}
+
+
+/* Number Nine */
+
+.container-9 {
+    display: flex;
+    justify-content: right;
+    align-items: flex-end;
+}
+
+
+/* Number Ten */
+
+.container-10 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+
+/* Number Eleven */
+
+.container-11 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    flex-basis: auto;
+    flex-wrap: wrap;
+}
+
+
+}
+
+/* Number Twelve */
+.container-12 {}
+.nerf-12 {
+    background-color: blue;
+}
+
+/* Number Thirteen */
+.container-13 {}
+.nerf-13 {
+    background-color: blue;
+}
+
+/* Number Fourteen */
+.container-14 {}
+.nerf-14 {
+    background-color: blue;
+}
